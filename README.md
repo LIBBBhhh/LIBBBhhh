@@ -9,3 +9,5 @@
 ## langs 
 Russian(native), English
 
+### favorite games:
+KatawaShojo, Lios(Last Island Of Survival), PUBG(Maybe)
