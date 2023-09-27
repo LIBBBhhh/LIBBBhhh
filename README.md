@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Im n1kryy or LIBBBhhh 
+### Im n1kryy or LIBBBhhh 
 
 - 🔭 I’m currently working on ImGui Saver
 - 🌱 I’m currently learning Java/C
@@ -8,4 +8,4 @@
 
 ## langs 
 Russian(native), English
-## 
+
